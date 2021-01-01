@@ -1,4 +1,4 @@
-## IINC/ | a Handshake TLD
+## IINC/ | a Handshake blockchain top level domain
 
 [![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)](https://shapereality.innerinetcompany.hns.to/)
 
