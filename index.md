@@ -69,4 +69,5 @@
       }
     </script>
      
-  
+  <script src="https://cdn.jsdelivr.net/npm/gun/gun.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gun/sea.js"></script>
