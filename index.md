@@ -69,28 +69,4 @@
       }
     </script>
      
-  <html>
-  <body>
-    <h1>Hello</h1>
-    <p>What is your name?</p>
-    <form><input><button>Submit</button></form>
-
-    <script src=https://cdn.jsdelivr.net/npm/gun/examples/jquery.js></script>
-    <script src=https://cdn.jsdelivr.net/npm/gun/gun.js></script>
-    <script>
-      var gun = Gun()
-
-      $(form).on(submit, function (event) {
-        event.preventDefault()
-        var input = $(form).find(input)
-        gun.get(hello).put({ name: input.val() });
-        input.val()
-      })
-
-      gun.get(hello).on(function(data, key) {
-        var h1 = $(h1)
-        h1.text(Hello  + data.name)
-      })
-    </script>
-  </body>
-</html>
+  
