@@ -68,6 +68,45 @@
         todos.get($(element).parent().attr('id')).put(null)
       }
     </script>
+    
+    <html>
+  <body>
+    <h1>Todo</h1>
+
+    <form id="sign">
+      <input id="alias" placeholder="username">
+      <input id="pass" type="password" placeholder="passphrase">
+      <input id="in" type="submit" value="sign in">
+      <input id="up" type="button" value="sign up">
+    </form>
+
+    <ul></ul>
+
+    <form id="said">
+        <input id="say">
+        <input id="speak" type="submit" value="speak">
+    </form>
+
+    <script src="https://cdn.jsdelivr.net/npm/gun/examples/jquery.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gun/gun.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gun/sea.js"></script>
+    <!-- script src="https://cdn.jsdelivr.net/npm/gun/lib/webrtc.js"></script -->
+    <script>
+    var gun = Gun(['http://localhost:8765/gun', 'https://mvp-gun.herokuapp.com/gun', 'https://e2eec.herokuapp.com/gun']);
+    var user = gun.user();
+
+    $('#up').on('click', function(e){
+      user.create($('#alias').val(), $('#pass').val());
+    });
+
+    $('#sign').on('submit', function(e){
+      e.preventDefault();
+      user.auth($('#alias').val(), $('#pass').val());
+    });
+
+    $('#said').on('submit', function(e){
+      e.preventDefault();
+      if(!user.is){ return }
+      user.get('said').set($('#say').val());
      
-  <script src="https://cdn.jsdelivr.net/npm/gun/gun.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/gun/sea.js"></script>
+  
