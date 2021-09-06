@@ -13,6 +13,9 @@
 - [INW](http://inw.hns.to/) 
 - [IIK](http://iik.hns.to/)
 
+# Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
+<iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
+
 <html>
   <body>
     <h1>Todos</h1>
