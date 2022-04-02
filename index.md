@@ -13,6 +13,11 @@
 - [INW](http://inw.hns.to/) 
 - [IIK](http://iik.hns.to/)
 
+# <form action="http://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
+Find your Domain: <input type="text" name="query" size="20" />
+<input type="submit" value="Go" />
+</form>
+
 # Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
 
