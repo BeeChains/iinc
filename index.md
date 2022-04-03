@@ -13,7 +13,9 @@
 - [INW](http://inw.hns.to/) 
 - [IIK](http://iik.hns.to/)
 
-# <form action="http://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
+<a href="https://wagmi.dworldwideweb.com/register.php">Click here to register at WAGMI.dWorldWideWeb.com</a>
+
+<form action="https://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
 Find your Domain: <input type="text" name="query" size="20" />
 <input type="submit" value="Go" />
 </form>
