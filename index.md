@@ -13,12 +13,25 @@
 - [INW](http://inw.hns.to/) 
 - [IIK](http://iik.hns.to/)
 
-<a href="https://wagmi.dworldwideweb.com/register.php">Click here to register at WAGMI.dWorldWideWeb.com</a>
+# IINC | Handshake Domains & dWeb sites!
 
-<form action="https://wagmi.dworldwideweb.com/cart.php?a=add&domain=register" method="post">
-Find your Domain: <input type="text" name="query" size="20" />
-<input type="submit" value="Go" />
-</form>
+- 🤝文 - [iinc/](http://innerinetcompany.iinc.hns.to/)
+- 🤝文 - [1ml.iinc/](https://1ml.com/node/02727420a06e3b5c1974b81fc063566f4b21612cbff885964fd915ea9b524c320a)
+- 🤝文 - [amboss.iinc/](https://amboss.space/node/02727420a06e3b5c1974b81fc063566f4b21612cbff885964fd915ea9b524c320a)
+- 🤝文 - [btc.iinc/](https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos)
+- 🤝文 - [btcops.iinc/](https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos)
+- 🤝文 - [btcpos.iinc/](https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos)
+- 🤝文 - [call.iinc/](https://iinc.onsip.com/)
+- 🤝文 - [hireme.iinc/](https://hihello.me/p/0cb68d09-191a-4d88-a7b7-ba493dbed5dd)
+- 🤝文 - [homescreen.iinc/](https://homescreen.hns.siasky.net/)
+- 🤝文 - [ln.iinc/](https://btcpay0.voltageapp.io/embed/BpXViuHbB2JbSA3wjpQCLSWoDsQC4JMy2i5yvpK7Rg9d/BTC/ln)
+- 🤝文 - [nextcloud.iinc/](https://use05.thegood.cloud/login?direct=1&user=innerinetcompany@gmail.com)
+- 🤝文 - [sats.iinc/](https://baaf49cc6b.d.voltageapp.io/tipjar/1)
+- 🤝文 - [shop.iinc/](https://innerinetcompany.mybigcommerce.com/)
+- 🤝文 - [tip.iinc/](https://baaf49cc6b.d.voltageapp.io/tipjar/1)
+
+
+
 
 # Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
 <iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
