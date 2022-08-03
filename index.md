@@ -13,7 +13,7 @@
 - [INW](http://inw.hns.to/) 
 - [IIK](http://iik.hns.to/)
 
-# IINC | Handshake Domains & dWeb sites!
+# IINC | Handshake Domains & dWeb... sites, links, & dLinks!
 
 - 🤝文 - [iinc/](http://innerinetcompany.iinc.hns.to/)
 - 🤝文 - [1ml.iinc/](https://1ml.com/node/02727420a06e3b5c1974b81fc063566f4b21612cbff885964fd915ea9b524c320a)
